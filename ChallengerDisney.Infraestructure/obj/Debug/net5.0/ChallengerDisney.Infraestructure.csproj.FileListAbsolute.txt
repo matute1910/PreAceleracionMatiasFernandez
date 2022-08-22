@@ -1,0 +1,15 @@
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\bin\Debug\net5.0\ChallengerDisney.Infraestructure.deps.json
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\bin\Debug\net5.0\ChallengerDisney.Infraestructure.dll
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\bin\Debug\net5.0\ref\ChallengerDisney.Infraestructure.dll
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\bin\Debug\net5.0\ChallengerDisney.Infraestructure.pdb
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\bin\Debug\net5.0\ChallengerDisney.Core.dll
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\bin\Debug\net5.0\ChallengerDisney.Core.pdb
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ChallengerDisney.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ChallengerDisney.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ChallengerDisney.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ChallengerDisney.Infraestructure.AssemblyInfo.cs
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ChallengerDisney.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ChallengerDisney.Infraestructure.csproj.CopyComplete
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ChallengerDisney.Infraestructure.dll
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ref\ChallengerDisney.Infraestructure.dll
+C:\Users\Sabrina Fabian\source\repos\AlkemyChallengerDisney\ChallengerDisney.Infraestructure\obj\Debug\net5.0\ChallengerDisney.Infraestructure.pdb
